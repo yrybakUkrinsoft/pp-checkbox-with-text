@@ -1,6 +1,6 @@
 {
   "name": "pp-checkbox-with-text",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "Special block with a checkbox.",
   "main": "index.js",
   "scripts": {},
@@ -15,6 +15,5 @@
   "author": "Max Mosyura",
   "license": "MIT",
   "dependencies": {
-    "react-native-vector-icons": "^4.2.0"
   }
 }
