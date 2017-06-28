@@ -1,6 +1,6 @@
 {
   "name": "pp-checkbox-with-text",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Special block with a checkbox.",
   "main": "index.js",
   "scripts": {},
