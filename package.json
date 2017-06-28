@@ -1,0 +1,22 @@
+{
+  "name": "pp-checkbox-with-text",
+  "version": "0.0.1",
+  "description": "Special block with a checkbox.",
+  "main": "index.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/woolfi182/pp-checkbox-with-text.git"
+  },
+  "keywords": [
+    "react-native",
+    "react-component"
+  ],
+  "author": "Max Mosyura",
+  "license": "MIT",
+  "devDependencies": {
+    "react-build-dist": "0.0.8",
+    "react-build-lib": "0.0.2"
+  }
+}
