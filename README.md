@@ -1,5 +1,6 @@
 # pp-checkbox-with-text
 ![Screen](/image/screen.png)
+
 Just a component for react-native. It gives you a special chexbox with the text inside.
 
 ##### installation
