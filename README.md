@@ -4,7 +4,7 @@
 Just a component for react-native. It gives you a special chexbox with the text inside.
 
 ##### installation
-```` npm install --save pp-chexbox-with-text ````
+```` npm install --save pp-checkbox-with-text ````
 
 #### Properties
 name | type | description | defaultValue
